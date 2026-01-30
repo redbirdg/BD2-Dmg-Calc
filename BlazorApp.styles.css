@@ -1,0 +1,26 @@
+/* /Layout/BattleUnitDiv.razor.rz.scp.css */
+.main-panel[b-algb6blujl] {
+    min-width: 50rem;
+}
+
+.tab-page-container[b-algb6blujl] {
+    min-height: 21.5rem;
+}
+/* /Layout/Character/BaseStatsDiv.razor.rz.scp.css */
+.text:not([p])[b-o6mr8u3juu] {
+    width: 50%;
+}
+/* /Layout/Character/CostumesDiv.razor.rz.scp.css */
+#add-btn[b-xalmygc9bh] {
+    margin-top: 5px;
+}
+/* /Layout/Character/GearsDiv.razor.rz.scp.css */
+.right-group[b-l6v83uvk4o] {
+    margin-bottom: 5px;
+}
+/* /Layout/Character/ReadOnlyStatsDiv.razor.rz.scp.css */
+.row .text:first-child[b-xw8va3lhou] {
+    width: 40%;
+    height: 1rem;
+}
+/* /Layout/GearDiv.razor.rz.scp.css */

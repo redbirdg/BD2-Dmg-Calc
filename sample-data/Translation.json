@@ -1,0 +1,616 @@
+﻿{
+  "Misc": [
+    {
+      "Key": "MainHeader",
+      "ZH_TW": "BD2傷害計算器",
+      "EN": "BD2 Damage Calc"
+    },
+    {
+      "Key": "Add",
+      "ZH_TW": "新增",
+      "EN": "Add"
+    },
+    {
+      "Key": "Remove",
+      "ZH_TW": "刪除",
+      "EN": "Delete"
+    },
+    {
+      "Key": "Name",
+      "ZH_TW": "名稱",
+      "EN": "Name"
+    },
+    {
+      "Key": "ExAttr",
+      "ZH_TW": "專用能力",
+      "EN": "Exclusive Attribute"
+    },
+    {
+      "Key": "BasicAttr",
+      "ZH_TW": "基本能力",
+      "EN": "Basic Attributes"
+    },
+    {
+      "Key": "OptAttr",
+      "ZH_TW": "選項",
+      "EN": "Option"
+    },
+    {
+      "Key": "CollectionBuff",
+      "ZH_TW": "收藏集增益效果",
+      "EN": "Collection Buff"
+    },
+    {
+      "Key": "BasicCharStat",
+      "ZH_TW": "基礎能力值",
+      "EN": "Base Stats"
+    },
+    {
+      "Key": "AtkType",
+      "ZH_TW": "攻擊屬性",
+      "EN": "Attack Properties"
+    },
+    {
+      "Key": "Element",
+      "ZH_TW": "元素屬性",
+      "EN": "Elemental Properties"
+    },
+    {
+      "Key": "PropertyDMG",
+      "ZH_TW": "屬性傷害",
+      "EN": "Property DMG"
+    },
+    {
+      "Key": "PropertyResist",
+      "ZH_TW": "屬性抵抗",
+      "EN": "Property Resist"
+    },
+    {
+      "Key": "Costume",
+      "ZH_TW": "服裝",
+      "EN": "Costume"
+    },
+    {
+      "Key": "Bound",
+      "ZH_TW": "已綁定",
+      "EN": "Bound"
+    },
+    {
+      "Key": "Bind",
+      "ZH_TW": "綁定",
+      "EN": "Bind"
+    },
+    {
+      "Key": "Engraving",
+      "ZH_TW": "刻印",
+      "EN": "Engraving"
+    },
+    {
+      "Key": "Awakening",
+      "ZH_TW": "覺醒",
+      "EN": "Awakening"
+    },
+    {
+      "Key": "Gear",
+      "ZH_TW": "裝備",
+      "EN": "Gear"
+    },
+    {
+      "Key": "Language",
+      "ZH_TW": "語言",
+      "EN": "Language"
+    },
+    {
+      "Key": "PermanentStats",
+      "ZH_TW": "共同能力值",
+      "EN": "Permanent Stats"
+    },
+    {
+      "Key": "BondingStat",
+      "ZH_TW": "綁定能力值",
+      "EN": "Bonding Stat"
+    },
+    {
+      "Key": "Weapon",
+      "ZH_TW": "武器",
+      "EN": "Weapon"
+    },
+    {
+      "Key": "Armor",
+      "ZH_TW": "盔甲",
+      "EN": "Armor"
+    },
+    {
+      "Key": "Helmet",
+      "ZH_TW": "頭盔",
+      "EN": "Helmet"
+    },
+    {
+      "Key": "Accessory",
+      "ZH_TW": "飾品",
+      "EN": "Accessory"
+    },
+    {
+      "Key": "Gloves",
+      "ZH_TW": "手套",
+      "EN": "Gloves"
+    },
+    {
+      "Key": "UpgradeLevel",
+      "ZH_TW": "強化階段",
+      "EN": "Upgrade Level"
+    },
+    {
+      "Key": "UpgradeRank",
+      "ZH_TW": "強化等級",
+      "EN": "Upgrade Rank"
+    },
+    {
+      "Key": "Rank",
+      "ZH_TW": "等級",
+      "EN": "Rank"
+    },
+    {
+      "Key": "Rarity",
+      "ZH_TW": "稀有度",
+      "EN": "Rarity"
+    },
+    {
+      "Key": "StatsBeforeBattle",
+      "ZH_TW": "戰前能力",
+      "EN": "Stats Before Battle"
+    },
+    {
+      "Key": "MaxCollectionBuffHint",
+      "ZH_TW": "將收藏集增益效果設定成遊戲中的最大值",
+      "EN": "Set the collection buff to the maximum value in the game"
+    },
+    {
+      "Key": "Import",
+      "ZH_TW": "匯入",
+      "EN": "Import"
+    },
+    {
+      "Key": "Export",
+      "ZH_TW": "匯出",
+      "EN": "Export"
+    },
+    {
+      "Key": "ImportCharacter",
+      "ZH_TW": "匯入夥伴",
+      "EN": "Import Companion"
+    },
+    {
+      "Key": "ExportCharacter",
+      "ZH_TW": "匯出夥伴",
+      "EN": "Export Companion"
+    },
+    {
+      "Key": "Download",
+      "ZH_TW": "下載",
+      "EN": "Download"
+    },
+    {
+      "Key": "DMGSimulation",
+      "ZH_TW": "傷害模擬",
+      "EN": "Damage Simulation"
+    },
+    {
+      "Key": "ChainDMGDealt +",
+      "ZH_TW": "施加連鎖傷害增加",
+      "EN": "Chain DMG Dealt Increase"
+    },
+    {
+      "Key": "ChainDMGTaken +",
+      "ZH_TW": "承受連鎖傷害增加",
+      "EN": "Chain DMG Taken Increase"
+    },
+    {
+      "Key": "ChainReinforcement",
+      "ZH_TW": "連鎖強化",
+      "EN": "Chain Reinforcement"
+    },
+    {
+      "Key": "ChainWeakening",
+      "ZH_TW": "連鎖弱化",
+      "EN": "Chain Weakening"
+    },
+    {
+      "Key": "InitChainStacks",
+      "ZH_TW": "起始連鎖數",
+      "EN": "Initial Chain Stacks"
+    },
+    {
+      "Key": "MaxChainStacks",
+      "ZH_TW": "連鎖上限",
+      "EN": "Max Chain Stacks"
+    },
+    {
+      "Key": "ChainDMG (+/-)",
+      "ZH_TW": "連鎖傷害(增加/減少)",
+      "EN": "Chain DMG (Increase/Reduction)"
+    },
+    {
+      "Key": "Stat (+/-)",
+      "ZH_TW": "能力值(強化/弱化)",
+      "EN": "Stat (Reinforcement/Weakening)"
+    },
+    {
+      "Key": "DMGTaken +",
+      "ZH_TW": "承受傷害增加",
+      "EN": "Damage Taken Increase"
+    },
+    {
+      "Key": "DMGTaken -",
+      "ZH_TW": "承受傷害減少",
+      "EN": "Damage Taken Reduction"
+    },
+    {
+      "Key": "DMGDealt +",
+      "ZH_TW": "施加傷害增加",
+      "EN": "Damage Dealt Increase"
+    },
+    {
+      "Key": "DMGDealt -",
+      "ZH_TW": "施加傷害減少",
+      "EN": "Damage Dealt Reduction"
+    },
+    {
+      "Key": "Warning",
+      "ZH_TW": "警告",
+      "EN": "Warning"
+    },
+    {
+      "Key": "ExportCharacter?",
+      "ZH_TW": "是否要下載夥伴的JSON檔案？",
+      "EN": "Do you want to download the companion JSON file?"
+    },
+    {
+      "Key": "ExportCollectionBuff?",
+      "ZH_TW": "是否要下載收藏集增益的JSON檔案？",
+      "EN": "Do you want to download the collection buff JSON file?"
+    },
+    {
+      "Key": "ExportGearPreset?",
+      "ZH_TW": "是否要下載裝備的JSON檔案？",
+      "EN": "Do you want to download the gear JSON file?"
+    },
+    {
+      "Key": "Confirm",
+      "ZH_TW": "確認",
+      "EN": "Confirm"
+    },
+    {
+      "Key": "Cancel",
+      "ZH_TW": "取消",
+      "EN": "Cancel"
+    },
+    {
+      "Key": "ExportCharacterWithGear",
+      "ZH_TW": "包含裝備",
+      "EN": "With Gear"
+    },
+    {
+      "Key": "ExportCharacterWithoutGear",
+      "ZH_TW": "不含裝備",
+      "EN": "Without Gear"
+    },
+    {
+      "Key": "Remove?",
+      "ZH_TW": "確定要刪除？",
+      "EN": "Are you sure you want to delete this?"
+    },
+    {
+      "Key": "EnableQuickRemove",
+      "ZH_TW": "刪除無須確認",
+      "EN": "Delete without confirmation"
+    },
+    {
+      "Key": "Attacker",
+      "ZH_TW": "攻擊方",
+      "EN": "Attacker"
+    },
+    {
+      "Key": "Defender",
+      "ZH_TW": "防守方",
+      "EN": "Defender"
+    },
+    {
+      "Key": "SkillDMGMult",
+      "ZH_TW": "技能傷害倍率",
+      "EN": "Skill Damage Multiplier"
+    },
+    {
+      "Key": "SkillHitCount",
+      "ZH_TW": "技能攻擊次數",
+      "EN": "Skill Attack Times"
+    },
+    {
+      "Key": "WeakPartAdditionalDMG",
+      "ZH_TW": "弱點部位額外傷害",
+      "EN": "Additional DMG to Weak Part"
+    },
+    {
+      "Key": "BattleFX",
+      "ZH_TW": "戰鬥中的效果",
+      "EN": "Battle Effects"
+    },
+    {
+      "Key": "Damage",
+      "ZH_TW": "傷害",
+      "EN": "Damage"
+    },
+    {
+      "Key": "IsCritical",
+      "ZH_TW": "觸發致命？",
+      "EN": "Critical?"
+    },
+    {
+      "Key": "CalculateDamage",
+      "ZH_TW": "計算傷害",
+      "EN": "Calculate Damage"
+    },
+    {
+      "Key": "TotalDamage",
+      "ZH_TW": "總傷害",
+      "EN": "Total Damage"
+    }
+  ],
+  "Attribute": [
+    {
+      "Key": "NONE",
+      "ZH_TW": "無",
+      "EN": "None"
+    },
+    {
+      "Key": "HP",
+      "ZH_TW": "生命力",
+      "EN": "HP"
+    },
+    {
+      "Key": "HP_MULTIPLE",
+      "ZH_TW": "生命力%",
+      "EN": "HP %"
+    },
+    {
+      "Key": "ATK",
+      "ZH_TW": "攻擊力",
+      "EN": "ATK"
+    },
+    {
+      "Key": "ATK_MULTIPLE",
+      "ZH_TW": "攻擊力%",
+      "EN": "ATK %"
+    },
+    {
+      "Key": "MAGIC_ATK",
+      "ZH_TW": "魔法力",
+      "EN": "Magic ATK"
+    },
+    {
+      "Key": "MAGIC_ATK_MULTIPLE",
+      "ZH_TW": "魔法力%",
+      "EN": "Magic ATK %"
+    },
+    {
+      "Key": "DEF",
+      "ZH_TW": "防禦力",
+      "EN": "DEF"
+    },
+    {
+      "Key": "MAGIC_RESIST",
+      "ZH_TW": "魔法抵抗",
+      "EN": "Magic Resist"
+    },
+    {
+      "Key": "CRIT_RATE",
+      "ZH_TW": "致命率",
+      "EN": "Crit Rate"
+    },
+    {
+      "Key": "CRIT_DMG",
+      "ZH_TW": "致命傷害",
+      "EN": "Crit DMG"
+    },
+    {
+      "Key": "FIRE_DMG",
+      "ZH_TW": "火屬性傷害",
+      "EN": "Fire DMG"
+    },
+    {
+      "Key": "WATER_DMG",
+      "ZH_TW": "水屬性傷害",
+      "EN": "Water DMG"
+    },
+    {
+      "Key": "WIND_DMG",
+      "ZH_TW": "風屬性傷害",
+      "EN": "Wind DMG"
+    },
+    {
+      "Key": "LIGHT_DMG",
+      "ZH_TW": "光屬性傷害",
+      "EN": "Light DMG"
+    },
+    {
+      "Key": "DARKNESS_DMG",
+      "ZH_TW": "暗屬性傷害",
+      "EN": "Darkness DMG"
+    },
+    {
+      "Key": "FIRE_RESIST",
+      "ZH_TW": "火屬性抵抗",
+      "EN": "Fire Resist"
+    },
+    {
+      "Key": "WATER_RESIST",
+      "ZH_TW": "水屬性抵抗",
+      "EN": "Water Resist"
+    },
+    {
+      "Key": "WIND_RESIST",
+      "ZH_TW": "風屬性抵抗",
+      "EN": "Wind Resist"
+    },
+    {
+      "Key": "LIGHT_RESIST",
+      "ZH_TW": "光屬性抵抗",
+      "EN": "Light Resist"
+    },
+    {
+      "Key": "DARKNESS_RESIST",
+      "ZH_TW": "暗屬性抵抗",
+      "EN": "Darkness Resist"
+    }
+  ],
+  "Language": [
+    {
+      "Key": "ZH_TW",
+      "ZH_TW": "中文（繁體）",
+      "EN": "中文（繁體）"
+    },
+    {
+      "Key": "EN",
+      "ZH_TW": "English",
+      "EN": "English"
+    }
+  ],
+  "Element": [
+    {
+      "Key": "NONE",
+      "ZH_TW": "無",
+      "EN": "None"
+    },
+    {
+      "Key": "FIRE",
+      "ZH_TW": "火",
+      "EN": "Fire"
+    },
+    {
+      "Key": "WATER",
+      "ZH_TW": "水",
+      "EN": "Water"
+    },
+    {
+      "Key": "WIND",
+      "ZH_TW": "風",
+      "EN": "Wind"
+    },
+    {
+      "Key": "LIGHT",
+      "ZH_TW": "光",
+      "EN": "Light"
+    },
+    {
+      "Key": "DARKNESS",
+      "ZH_TW": "暗",
+      "EN": "Darkness"
+    }
+  ],
+  "AtkProp": [
+    {
+      "Key": "PHYSICAL",
+      "ZH_TW": "物理",
+      "EN": "Physical"
+    },
+    {
+      "Key": "MAGICAL",
+      "ZH_TW": "魔法",
+      "EN": "Magic"
+    }
+  ],
+  "GearTierSymbol": [
+    {
+      "Key": "UR3",
+      "ZH_TW": "UR✦✦✦",
+      "EN": "UR✦✦✦"
+    },
+    {
+      "Key": "UR2",
+      "ZH_TW": "UR✦✦",
+      "EN": "UR✦✦"
+    },
+    {
+      "Key": "UR1",
+      "ZH_TW": "UR✦",
+      "EN": "UR✦"
+    },
+    {
+      "Key": "UR0",
+      "ZH_TW": "UR",
+      "EN": "UR"
+    },
+    {
+      "Key": "SR3",
+      "ZH_TW": "SR✦✦✦",
+      "EN": "SR✦✦✦"
+    },
+    {
+      "Key": "SR2",
+      "ZH_TW": "SR✦✦",
+      "EN": "SR✦✦"
+    },
+    {
+      "Key": "SR1",
+      "ZH_TW": "SR✦",
+      "EN": "SR✦"
+    },
+    {
+      "Key": "SR0",
+      "ZH_TW": "SR",
+      "EN": "SR"
+    }
+  ],
+  "UpgradeLevelSymbol": [
+    {
+      "Key": "Level0",
+      "ZH_TW": "+0",
+      "EN": "+0"
+    },
+    {
+      "Key": "Level1",
+      "ZH_TW": "+1",
+      "EN": "+1"
+    },
+    {
+      "Key": "Level2",
+      "ZH_TW": "+2",
+      "EN": "+2"
+    },
+    {
+      "Key": "Level3",
+      "ZH_TW": "+3",
+      "EN": "+3"
+    },
+    {
+      "Key": "Level4",
+      "ZH_TW": "+4",
+      "EN": "+4"
+    },
+    {
+      "Key": "Level5",
+      "ZH_TW": "+5",
+      "EN": "+5"
+    },
+    {
+      "Key": "Level6",
+      "ZH_TW": "+6",
+      "EN": "+6"
+    },
+    {
+      "Key": "Level7",
+      "ZH_TW": "+7",
+      "EN": "+7"
+    },
+    {
+      "Key": "Level8",
+      "ZH_TW": "+8",
+      "EN": "+8"
+    },
+    {
+      "Key": "Level9",
+      "ZH_TW": "+9",
+      "EN": "+9"
+    }
+  ]
+}
